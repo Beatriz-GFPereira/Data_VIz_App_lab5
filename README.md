@@ -1,1 +1,3 @@
-# Data_VIz_App_lab5
+# Deploying your Dash app online
+
+Enjoy at https://dashexample.herokuapp.com/
